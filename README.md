@@ -1,4 +1,6 @@
-# vue3
+# simple vue app 
+
+
 
 ## Project setup
 ```
